@@ -1,7 +1,7 @@
 # 📊 Sales Performance Dashboard (Excel)
 ## 📷 Dashboard Preview
 
-![Dashboard](./Excel_Dashboard)
+![Dashboard](Excel_Dashboard.png)
 ## 📌 Overview
 
 An interactive Excel dashboard to analyze sales executives' performance across different cities.
